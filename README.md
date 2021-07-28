@@ -25,5 +25,6 @@ Hello,, I'm Ross Loika, I am a slowly growing Software Developer. My passion is 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rossloika&show_icons=true&theme=gotham" alt="rossloika"/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rossloika&show_icons=true&theme=dark" alt="rossloika"/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rossloika&show_icons=true&theme=dark" alt="rossloika"/>
 <p align="center"> <img src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="250" height="250"/>
