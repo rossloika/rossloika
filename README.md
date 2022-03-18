@@ -6,9 +6,6 @@
 <a href="https://twitter.com/DerpyRoss">
   <img align="left" alt="Ross Loika's | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://open.spotify.com/user/rossy12343">
-  <img align="left" alt="Ross Loika's Spotify" width="22px" src="https://commons.wikimedia.org/wiki/File:Spotify_logo_without_text.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=rossloika.rossloika)
 
