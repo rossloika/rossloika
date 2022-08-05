@@ -14,7 +14,7 @@
 Hello,, I'm Ross Loika, I am a slowly growing Software Developer. My passion is to do Technical Production in live events and theaters. I currently know mainly LUA as my coding language and I am always expanding my knowledge.
   
 - 💼 Need to contact me? 
-  - you could send me a Discord DM at [rossloika | Derpy#8484](https://discord.com)
+  - you could send me a Discord DM at [rossloika | Derpy#8484](http://discord://-/users/159170842528448512)
   - you could email me here, [email](mailto:rossloika@outlook.com)
 
 **languages and tools:**
